@@ -1,0 +1,13 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "*.png",
+        "*.mbm",
+        "*.tga",
+        "*.dds",
+        "*.psd"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
